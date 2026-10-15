@@ -1,16 +1,21 @@
-## Hi there 👋
+# Fernanda Treviño
 
-<!--
-**fernandatrevi/fernandatrevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+**Data Analytics · Machine Learning · Health-Tech**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering Management Student at
+Universidad de Monterrey (UDEM)
+
+</div>
+
+---
+
+## About me
+
+I'm an Engineering Management student interested
+in applying data analytics, machine learning, and
+artificial intelligence to solve real-world problems.
+
+My interests include healthcare analytics,
+predictive modeling, and data-driven decision-making.
