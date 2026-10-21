@@ -4,8 +4,7 @@
 
 **Data Analytics · Machine Learning · Health-Tech**
 
-Engineering Management Student at
-Universidad de Monterrey (UDEM)
+Engineering Management Student 
 
 </div>
 
