@@ -27,6 +27,10 @@ predictive modeling, and data-driven decision-making.
 
 Experimental web app using MediaPipe pose estimation and browser-based video analysis. **[View portfolio website](https://fernandatrevi.github.io/formai-portfolio/)** · **[Open FormAI demo](https://formai-live.onrender.com/)** · [Read the public case study](https://github.com/fernandatrevi/formai-portfolio). The source repository remains private.
 
+### [Mexico Healthcare Access Analysis — Interactive R Shiny Dashboard](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)
+
+Interactive R/Shiny and Plotly dashboard exploring official INEGI healthcare-access deprivation estimates across Mexico's 32 states (2016–2024). Features year filters, state comparisons, national benchmarks, demographic counts and CSV exports. **[View dashboard code and local run instructions](https://github.com/fernandatrevi/mexico-healthcare-access-analysis#interactive-dashboard--r-shiny)**. Successfully tested locally; public shinyapps.io deployment is pending.
+
 ### [Healthcare Supplier Performance Dashboard](https://github.com/fernandatrevi/panel-proveedores-salud)
 
 Interactive Python/Streamlit analysis of historical healthcare supplier delivery reliability, including data-quality checks and shipment-level KPIs. **[Open the live dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/)**.
