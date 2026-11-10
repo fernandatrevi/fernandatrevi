@@ -18,3 +18,11 @@ artificial intelligence to solve real-world problems.
 
 My interests include healthcare analytics,
 predictive modeling, and data-driven decision-making.
+
+---
+
+## Featured project
+
+### [FormAI Live — Computer Vision Exercise Analysis](projects/formai-live/README.md)
+
+Experimental web app using MediaPipe pose estimation and browser-based video analysis. [Read the public case study](projects/formai-live/README.md). The source repository remains private.
