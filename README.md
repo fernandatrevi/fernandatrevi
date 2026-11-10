@@ -25,7 +25,7 @@ predictive modeling, and data-driven decision-making.
 
 ### [FormAI Live — Computer Vision Exercise Analysis](projects/formai-live/README.md)
 
-Experimental web app using MediaPipe pose estimation and browser-based video analysis. [Read the public case study](projects/formai-live/README.md). The source repository remains private.
+Experimental web app using MediaPipe pose estimation and browser-based video analysis. **[View portfolio website](https://fernandatrevi.github.io/formai-portfolio/)** · **[Open FormAI demo](https://formai-live.onrender.com/)** · [Read the public case study](https://github.com/fernandatrevi/formai-portfolio). The source repository remains private.
 
 ### [Healthcare Supplier Performance Dashboard](https://github.com/fernandatrevi/panel-proveedores-salud)
 
