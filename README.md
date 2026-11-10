@@ -29,7 +29,7 @@ Experimental web app using MediaPipe pose estimation and browser-based video ana
 
 ### [Mexico Healthcare Access Analysis — Interactive R Shiny Dashboard](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)
 
-Interactive R/Shiny and Plotly dashboard exploring official INEGI healthcare-access deprivation estimates across Mexico's 32 states (2016–2024). Features year filters, state comparisons, national benchmarks, demographic counts and CSV exports. **[View dashboard code and local run instructions](https://github.com/fernandatrevi/mexico-healthcare-access-analysis#interactive-dashboard--r-shiny)**. Successfully tested locally; public shinyapps.io deployment is pending.
+Interactive R/Shiny and Plotly dashboard exploring official INEGI healthcare-access deprivation estimates across Mexico's 32 states (2016–2024). Features year filters, state comparisons, national benchmarks, demographic counts and CSV exports. **[Open interactive Shiny dashboard](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/)** · **[View project code](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)**. The deployment URL is configured; remote startup has not yet been independently verified.
 
 ### [Healthcare Supplier Performance Dashboard](https://github.com/fernandatrevi/panel-proveedores-salud)
 
@@ -54,7 +54,7 @@ Interactive Next.js and TypeScript prototype exploring medical-image classificat
 
 ### [StudyPilot AI — AI Study Assistant](https://github.com/fernandatrevi/studypilot-ai)
 
-Streamlit learning assistant supporting subject organization, PDF study materials, AI tutoring, quizzes, exam simulation and review of incorrect answers. **[View the repository](https://github.com/fernandatrevi/studypilot-ai)**. No verified public website link is documented.
+Streamlit learning assistant supporting subject organization, PDF study materials, AI tutoring, quizzes, exam simulation and review of incorrect answers. **[View the repository](https://github.com/fernandatrevi/studypilot-ai)**. A Streamlit deployment has been reported; the public app URL is awaiting confirmation before linking.
 
 ## Open-source exploration
 
