@@ -6,10 +6,7 @@
 
 *Building practical tools for analytics, operations, finance, and technology.*
 
-[![GitHub Portfolio](https://img.shields.io/badge/PORTFOLIO-GitHub-172433?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandatrevi?tab=repositories)
-[![Healthcare Dashboard](https://img.shields.io/badge/LIVE%20DASHBOARD-R%20Shiny-087E8B?style=for-the-badge)](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/)
-[![FormAI](https://img.shields.io/badge/FORM AI-Project%20Showcase-315A82?style=for-the-badge)](https://fernandatrevi.github.io/formai-portfolio/)
-[![Vínculo](https://img.shields.io/badge/V%C3%8DNCULO-Project%20Showcase-1E897D?style=for-the-badge)](https://fernandatrevi.github.io/vinculo-portfolio/)
+[**PORTFOLIO**](https://github.com/fernandatrevi?tab=repositories) &nbsp;·&nbsp; [**R SHINY DASHBOARD**](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) &nbsp;·&nbsp; [**FORMAI PROJECT**](https://fernandatrevi.github.io/formai-portfolio/) &nbsp;·&nbsp; [**VÍNCULO PROJECT**](https://fernandatrevi.github.io/vinculo-portfolio/)
 
 </div>
 
