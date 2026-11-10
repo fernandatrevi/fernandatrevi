@@ -42,3 +42,22 @@ Educational portfolio analysis with historical risk/return data, minimum-varianc
 ### [Vínculo — Social Impact Platform](https://github.com/fernandatrevi/vinculo-portfolio)
 
 Public case study for a nonprofit donor-management prototype. The application source repository remains private. **[Explore the demo](https://vinculo-donantes-1.onrender.com/)**.
+
+
+### [Wall Street Web Crawler — SEC Filing and PDF Analysis](https://github.com/fernandatrevi/wall-street-web-crawler)
+
+Python/Streamlit document analysis tool that retrieves public SEC 10-K/10-Q filings or accepts text-based PDFs, detects financial terms and animates an SVG spider over matching excerpts. **This is keyword matching, not autonomous AI analysis.** **[Try the live application](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/)**.
+
+### [BrainScan AI — Medical Imaging ML Laboratory](https://github.com/fernandatrevi/brainscan-ai)
+
+Interactive Next.js and TypeScript prototype exploring medical-image classification concepts. The dashboard uses **synthetic data, illustrative confidence scores and mock results**, not real MRI inference or medical diagnoses. A separate Python SVM/Random Forest training script is available in the repository. **[Explore the project and setup instructions](https://github.com/fernandatrevi/brainscan-ai)**. No verified live deployment URL is documented.
+
+### [StudyPilot AI — AI Study Assistant](https://github.com/fernandatrevi/studypilot-ai)
+
+Streamlit learning assistant supporting subject organization, PDF study materials, AI tutoring, quizzes, exam simulation and review of incorrect answers. **[View the repository](https://github.com/fernandatrevi/studypilot-ai)**. No verified public website link is documented.
+
+## Open-source exploration
+
+### [Bitchat — Fork of permissionlesstech/bitchat](https://github.com/fernandatrevi/bitchat-fernandatrevi)
+
+**Fork, not an original application.** Bitchat is a decentralized messaging app combining offline Bluetooth mesh connectivity with internet-based Nostr transport. Original project: **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)**. A fork does not, by itself, establish original implementation contributions.
