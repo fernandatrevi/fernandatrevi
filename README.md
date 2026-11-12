@@ -2,11 +2,11 @@
 
 # Fernanda Treviño
 
-### Engineering Management · Data Analytics · Applied AI
+### Engineering Management | Supply Chain & Operations | Data Analytics
 
-*Building practical tools for analytics, operations, finance, and technology.*
+**Turning complex data into actionable insights, analytical tools, and practical engineering solutions.**
 
-[**PORTFOLIO**](https://github.com/fernandatrevi?tab=repositories) &nbsp;·&nbsp; [**R SHINY DASHBOARD**](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) &nbsp;·&nbsp; [**FORMAI PROJECT**](https://fernandatrevi.github.io/formai-portfolio/) &nbsp;·&nbsp; [**VÍNCULO PROJECT**](https://fernandatrevi.github.io/vinculo-portfolio/)
+[**Featured work ↓**](#featured-projects) &nbsp;·&nbsp; [**Live dashboards ↓**](#live-dashboards) &nbsp;·&nbsp; [**All repositories ↗**](https://github.com/fernandatrevi?tab=repositories)
 
 </div>
 
@@ -14,58 +14,113 @@
 
 ## About me
 
-I'm an **Engineering Management student** interested in applying **data analytics, industrial engineering, machine learning, and software development** to solve practical problems.
+I'm an **Engineering Management student** interested in **supply chain, logistics, operational efficiency, optimization, and business analytics**. I use data analysis and software development to explore real-world decisions, from supplier delivery performance to healthcare access and portfolio risk.
 
-My work spans **supply chain performance, healthcare analytics, financial modeling, AI-assisted applications, and social-impact platforms**. I focus on building usable prototypes, documenting technical decisions, and turning data into interpretable information for decision-making.
+My approach: define the problem, clean and validate the data, build an interpretable tool, and communicate what the findings **do—and do not—show**.
 
 ## Featured projects
 
-| Project | What it does | Tech | Demo / details |
-|---|---|---|---|
-| **[Healthcare Supplier Performance](https://github.com/fernandatrevi/panel-proveedores-salud)** | Historical supplier delivery analysis with data validation, on-time delivery KPIs, filters and CSV exports. | `Python` `pandas` `Streamlit` | [Dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) |
-| **[Mexico Healthcare Access Analysis](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)** | Explores official INEGI estimates across 32 states and five reference years, comparing deprivation rates and affected populations. | `R` `Shiny` `Plotly` | [Shiny app](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) |
-| **[AI Investment Portfolio Optimizer](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer)** | Compares historical asset allocations, minimum-variance optimization, risk measures, and chronological holdout results. | `Python` `Streamlit` `SciPy` | [Repository](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer) |
-| **[FormAI Live](https://github.com/fernandatrevi/formai-portfolio)** | Experimental browser-based exercise-video review using pretrained pose estimation and approximate 2D joint angles. Source repository is private. | `JavaScript` `MediaPipe` `Vite` | [Portfolio](https://fernandatrevi.github.io/formai-portfolio/) · [Demo](https://formai-live.onrender.com/) |
-| **[Vínculo](https://github.com/fernandatrevi/vinculo-portfolio)** | Nonprofit platform prototype exploring organization discovery, accounts, memberships, and manual donor/donation records. Source repository is private. | `React` `TypeScript` `FastAPI` `PostgreSQL` | [Portfolio](https://fernandatrevi.github.io/vinculo-portfolio/) · [Demo](https://vinculo-donantes-1.onrender.com/) |
-| **[Wall Street Web Crawler](https://github.com/fernandatrevi/wall-street-web-crawler)** | Searches public SEC filings and text-based PDFs for financial terms and visualizes matching excerpts. | `Python` `Streamlit` `PDF` | [Live app](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/) |
+### 01 · Healthcare Supplier Performance | Supply Chain Analytics
 
-*Live services are hosted by third parties and may be temporarily unavailable. These projects are educational or experimental, not verified production financial or medical services.*
+**Business question:** How consistently were healthcare shipments delivered on time, and how can performance be compared across suppliers and destinations?
 
-## More projects
+- Analyzed historical **2006–2015** shipment and purchasing records: **10,324 original product lines** and **7,030 distinct shipment references**.
+- Defined shipment-level KPIs after checking date consistency and duplicate product lines.
+- **7,020 shipments** were eligible for evaluation; **88.63%** arrived on time. Ten references required date review.
+- Built interactive supplier/year/country filters and downloadable CSV reports.
+- **Tools:** `Python` · `pandas` · `Streamlit`
 
-| Project | Focus | Tech |
-|---|---|---|
-| [AnimeMatch AI](https://github.com/fernandatrevi/animematch-ai) · [Demo](https://animematch.onrender.com/) | Anime recommendations based on content similarity | `Python` `NLP` `TF-IDF` |
-| [BrainScan AI](https://github.com/fernandatrevi/brainscan-ai) | Medical-imaging classification learning lab with synthetic dashboard examples; not diagnostic inference | `Next.js` `TypeScript` `Python` |
-| [StudyPilot AI](https://github.com/fernandatrevi/studypilot-ai) | PDF-based study assistant with quizzes, review tools, and locally configured Ollama tutoring | `Python` `Streamlit` `Ollama` |
+[**Live dashboard ↗**](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) · [Source and methodology ↗](https://github.com/fernandatrevi/panel-proveedores-salud)
 
-## Engineering approach
+<sub>Historical descriptive analysis, not a measure of current supplier performance. Late delivery cannot be attributed to a supplier without further evidence.</sub>
 
-- **Start with the problem:** define the decision, audience, and measurable outputs before building.
-- **Validate the data:** check missing values, duplicates, inconsistent identifiers, and metric definitions.
-- **Build usable tools:** connect processing pipelines with intuitive dashboards or interfaces.
-- **Evaluate results:** distinguish in-sample results from independent tests and assumptions from verified outcomes.
-- **Document limitations:** label synthetic data, prototypes, and unfinished functionality explicitly.
-- **Keep improving:** use version control and incremental changes to strengthen reliability and clarity.
+---
 
-## Core tools
+### 02 · Mexico Healthcare Access Analysis | Public Data Analytics
 
-**Analytics:** Python · R · SQL concepts · pandas · Plotly · Streamlit · Shiny
+**Research question:** How did healthcare access deprivation vary across Mexican states, and how does the picture change when comparing percentages with affected populations?
 
-**Machine learning & modeling:** scikit-learn · KMeans · MediaPipe · statistical analysis · portfolio optimization
+- Explored official INEGI estimates for **32 states** across **2016, 2018, 2020, 2022, and 2024**.
+- Built an interactive dashboard for state comparisons, time trends, national benchmarks, and CSV export.
+- Documented that **27 states** saw estimated decreases between 2022 and 2024, while **all 32** remained above their 2016 point estimates in 2024.
+- **Tools:** `R` · `Shiny` · `Plotly` · `readxl`
 
-**Applications & data:** JavaScript · TypeScript · React · FastAPI · PostgreSQL · GitHub
+[**Interactive Shiny dashboard ↗**](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) · [Source and findings ↗](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)
 
-**Areas of interest:** Supply Chain Analytics · Business Intelligence · Revenue & Financial Analytics · Healthcare Data · Social Impact Tech
+<sub>Descriptive comparisons of published estimates; no causal conclusions or statistical significance claims.</sub>
+
+---
+
+### 03 · AI Investment Portfolio Optimizer | Quantitative Modeling
+
+**Analytical question:** How do allocation choices change historical portfolio risk, and what happens when they are evaluated on later observations?
+
+- Compared equal-weight and **long-only minimum-variance** allocations.
+- Added interactive analysis of historical volatility, drawdowns, correlations, VaR/CVaR, and allocation weights.
+- Included a **chronological holdout** comparison to distinguish training-period fit from subsequent historical observations.
+- **Tools:** `Python` · `SciPy` · `Streamlit` · `Plotly`
+
+[**Explore the repository ↗**](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer)
+
+<sub>Educational historical research, not investment advice or a validated live strategy. No public deployed app has been verified.</sub>
+
+---
+
+### 04 · Vínculo | Full-Stack Social Impact Technology
+
+**Product concept:** Connect nonprofit discovery with structured administrative records and membership-based access.
+
+- Prototyped an organization directory, account workflows, memberships, and permission-controlled manual donor/donation records.
+- Documented application architecture and the difference between persisted records and sample dashboard data.
+- **Tools:** `React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Render`
+
+[**Project portfolio ↗**](https://fernandatrevi.github.io/vinculo-portfolio/) · [**Live prototype ↗**](https://vinculo-donantes-1.onrender.com/) · [Technical documentation ↗](https://github.com/fernandatrevi/vinculo-portfolio)
+
+<sub>Experimental prototype with fictional information. No payment processing; not intended for real donor records or production use.</sub>
+
+## Live dashboards
+
+| Project | Focus | Open |
+|:--|:--|:--|
+| **Healthcare Supplier Performance** | Shipment KPIs and delivery analysis | [Dashboard ↗](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) |
+| **Mexico Healthcare Access** | Interactive geographic and historical comparisons | [Shiny app ↗](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) |
+| **FormAI Live** | Experimental video-based exercise feedback | [Demo ↗](https://formai-live.onrender.com/) |
+| **Vínculo** | Nonprofit management prototype | [Demo ↗](https://vinculo-donantes-1.onrender.com/) |
+| **Wall Street Web Crawler** | SEC filing and PDF text search | [App ↗](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/) |
+
+<sub>Third-party hosted demos may be unavailable or take time to initialize. A link is not a claim of production readiness or independently verified uptime.</sub>
+
+## Additional projects
+
+- **[FormAI](https://github.com/fernandatrevi/formai-portfolio)** — browser-based video analysis using pretrained pose estimation; [portfolio](https://fernandatrevi.github.io/formai-portfolio/).
+- **[Wall Street Web Crawler](https://github.com/fernandatrevi/wall-street-web-crawler)** — financial filing and PDF term search.
+- **[StudyPilot AI](https://github.com/fernandatrevi/studypilot-ai)** — document-based study assistant with quizzes and locally configured tutoring.
+- **[BrainScan AI](https://github.com/fernandatrevi/brainscan-ai)** — medical imaging classification learning project; not a diagnostic tool.
+- **[AnimeMatch AI](https://github.com/fernandatrevi/animematch-ai)** — content-based recommendation prototype; [demo](https://animematch.onrender.com/).
+
+## Technical toolkit
+
+| Area | Tools and methods |
+|:--|:--|
+| **Data & BI** | Python, R, pandas, Plotly, Streamlit, Shiny, data quality checks, KPI definition |
+| **Operations & optimization** | Supplier performance measurement, shipment analysis, SciPy optimization, scenario comparison |
+| **ML & quantitative analysis** | scikit-learn, KMeans, descriptive statistics, risk measures, holdout evaluation |
+| **Software & databases** | SQL concepts, PostgreSQL, React, TypeScript, FastAPI, Git/GitHub |
+
+## How I work
+
+**Problem framing → Data validation → Model / KPI design → Interactive delivery → Critical interpretation**
+
+I prioritize clear metric definitions, reproducible calculations, documented assumptions, and honest reporting of prototype limitations.
 
 ---
 
 <div align="center">
 
-**Interested in data-driven operations, analytics, and applied technology opportunities.**
+### Open to opportunities in operations, supply chain analytics, business intelligence, and applied technology.
 
-[Explore my repositories](https://github.com/fernandatrevi?tab=repositories)
+[**Browse my projects ↗**](https://github.com/fernandatrevi?tab=repositories)
 
-<sub>Selected project descriptions reflect documented features. Public demo availability and project maturity vary.</sub>
+<sub>Portfolio by Fernanda Treviño · Selected academic and experimental projects.</sub>
 
 </div>
