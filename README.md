@@ -95,7 +95,7 @@ My approach: define the problem, clean and validate the data, build an interpret
 ## Additional projects
 
 - **[FormAI](https://github.com/fernandatrevi/formai-portfolio)** — browser-based video analysis using pretrained pose estimation; [portfolio](https://fernandatrevi.github.io/formai-portfolio/).
-- **[Wall Street Web Crawler](https://github.com/fernandatrevi/wall-street-web-crawler)** — financial filing and PDF term search.
+- **[Wall Street Web Crawler](https://github.com/fernandatrevi/wall-street-web-crawler)** — financial filing and PDF term search; [live demo](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/).
 - **[StudyPilot AI](https://github.com/fernandatrevi/studypilot-ai)** — document-based study assistant with quizzes and locally configured tutoring.
 - **[BrainScan AI](https://github.com/fernandatrevi/brainscan-ai)** — educational medical-imaging interface with simulated results; [web demo](https://brainscan-ai-one.vercel.app/). Not a diagnostic tool.
 - **[AnimeMatch AI](https://github.com/fernandatrevi/animematch-ai)** — content-based recommendation prototype; [demo](https://animematch.onrender.com/).
