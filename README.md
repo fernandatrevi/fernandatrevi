@@ -60,9 +60,9 @@ My approach: define the problem, clean and validate the data, build an interpret
 - Included a **chronological holdout** comparison to distinguish training-period fit from subsequent historical observations.
 - **Tools:** `Python` · `SciPy` · `Streamlit` · `Plotly`
 
-[**Explore the repository ↗**](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer)
+[**Live dashboard ↗**](https://ai-investment-portfolio-optimizer-tsjajqgwafh9vj3tavxaoj.streamlit.app/) · [**Source code ↗**](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer)
 
-<sub>Educational historical research, not investment advice or a validated live strategy. No public deployed app has been verified.</sub>
+<sub>Educational historical research, not investment advice or a validated live strategy. Public app URL supplied by project owner; runtime functionality has not been independently verified.</sub>
 
 ---
 
@@ -84,6 +84,7 @@ My approach: define the problem, clean and validate the data, build an interpret
 |:--|:--|:--|
 | **Healthcare Supplier Performance** | Shipment KPIs and delivery analysis | [Dashboard ↗](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) |
 | **Mexico Healthcare Access** | Interactive geographic and historical comparisons | [Shiny app ↗](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) |
+| **AI Investment Portfolio Optimizer** | Portfolio risk and allocation analysis | [Dashboard ↗](https://ai-investment-portfolio-optimizer-tsjajqgwafh9vj3tavxaoj.streamlit.app/) |
 | **FormAI Live** | Experimental video-based exercise feedback | [Demo ↗](https://formai-live.onrender.com/) |
 | **Vínculo** | Nonprofit management prototype | [Demo ↗](https://vinculo-donantes-1.onrender.com/) |
 | **Wall Street Web Crawler** | SEC filing and PDF text search | [App ↗](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/) |
