@@ -89,6 +89,7 @@ My approach: define the problem, clean and validate the data, build an interpret
 | **Vínculo** | Nonprofit management prototype | [Demo ↗](https://vinculo-donantes-1.onrender.com/) |
 | **BrainScan AI** | Educational medical-imaging analytics interface (synthetic data) | [Web app ↗](https://brainscan-ai-one.vercel.app/) |
 | **Wall Street Web Crawler** | SEC filing and PDF text search | [App ↗](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/) |
+| **StudyPilot AI** | PDF study tools and quizzes; local Ollama tutor not verified online | [Web app ↗](https://studypilotai.streamlit.app/) |
 
 <sub>Third-party hosted demos may be unavailable or take time to initialize. A link is not a claim of production readiness or independently verified uptime.</sub>
 
@@ -96,7 +97,7 @@ My approach: define the problem, clean and validate the data, build an interpret
 
 - **[FormAI](https://github.com/fernandatrevi/formai-portfolio)** — browser-based video analysis using pretrained pose estimation; [portfolio](https://fernandatrevi.github.io/formai-portfolio/).
 - **[Wall Street Web Crawler](https://github.com/fernandatrevi/wall-street-web-crawler)** — financial filing and PDF term search; [live demo](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/).
-- **[StudyPilot AI](https://github.com/fernandatrevi/studypilot-ai)** — document-based study assistant with quizzes and locally configured tutoring.
+- **[StudyPilot AI](https://github.com/fernandatrevi/studypilot-ai)** — document-based study assistant with quizzes and locally configured tutoring; [web demo](https://studypilotai.streamlit.app/). The Ollama tutor is not verified in the hosted version.
 - **[BrainScan AI](https://github.com/fernandatrevi/brainscan-ai)** — educational medical-imaging interface with simulated results; [web demo](https://brainscan-ai-one.vercel.app/). Not a diagnostic tool.
 - **[AnimeMatch AI](https://github.com/fernandatrevi/animematch-ai)** — content-based recommendation prototype; [demo](https://animematch.onrender.com/).
 
