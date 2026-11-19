@@ -12,20 +12,6 @@
 
 ---
 
-## Contribution activity
-
-<div align="center">
-
-<!-- Generated every day by GitHub Actions using Platane/snk.
-     Visualizes GitHub's contribution calendar; does not expose private repositories. -->
-<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated blue snake moving across Fernanda's GitHub contribution graph on a dark grid" width="100%" />
-
-<sub>Blue contribution snake · Automatically updated daily via GitHub Actions</sub>
-
-</div>
-
----
-
 ## About me
 
 I'm an **Engineering Management student** interested in **supply chain, logistics, operational efficiency, optimization, and business analytics**. I use data analysis and software development to explore real-world decisions, from supplier delivery performance to healthcare access and portfolio risk.
@@ -139,5 +125,22 @@ I prioritize clear metric definitions, reproducible calculations, documented ass
 [**Browse my projects ↗**](https://github.com/fernandatrevi?tab=repositories)
 
 <sub>Portfolio by Fernanda Treviño · Selected academic and experimental projects.</sub>
+
+</div>
+
+---
+
+## Contribution activity
+
+<div align="center">
+
+### 696 contributions in the last year
+<sub>Snapshot from GitHub profile on November 19, 2026 · The count above is not live.</sub>
+
+<!-- Generated daily by Platane/snk; the animation uses GitHub's contribution graph,
+     without publishing source code from private repositories. -->
+<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated blue snake on a light-blue GitHub contributions grid" width="100%" />
+
+<sub>Blue contribution snake · The animation updates daily via GitHub Actions</sub>
 
 </div>
