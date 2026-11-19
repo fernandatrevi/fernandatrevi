@@ -2,9 +2,9 @@
 
 # Fernanda Treviño
 
-### Engineering Management · Data Analytics · Applied Technology
+### Data Analytics · Business Intelligence · Applied Machine Learning
 
-Building practical tools for data analysis, forecasting, operational visibility, and decision-making.
+Turning raw data into reliable insights, clear visualizations, and practical analytical tools.
 
 [**PROJECTS**](#featured-projects) &nbsp; [**LIVE DEMOS**](#live-demos) &nbsp; [**GITHUB**](https://github.com/fernandatrevi?tab=repositories)
 
@@ -14,16 +14,16 @@ Building practical tools for data analysis, forecasting, operational visibility,
 
 ## About me
 
-I'm an Engineering Management student interested in how data and software can improve real-world systems. My work spans **analytics, data preparation, supply chain performance, forecasting, and application development**.
+I'm an Engineering Management student focused on **data analytics**, with an interest in business intelligence, applied machine learning, and turning complex information into useful decisions.
 
-I enjoy taking a project from messy data or an open-ended question to a reproducible analysis, a dashboard, or a working prototype. I focus on clear metrics, useful interfaces, and documenting assumptions and limitations.
+My projects explore the full analytical workflow: **cleaning and validating data, defining metrics, exploring patterns, building interactive dashboards, and evaluating models**. I enjoy connecting technical work with questions that matter to real organizations, while making assumptions and limitations explicit.
 
 ## Featured projects
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [**Supplier Delivery Performance**](https://github.com/fernandatrevi/panel-proveedores-salud) | Interactive analysis of supplier delivery reliability using historical shipment data. Defines on-time delivery KPIs, checks record consistency, and compares suppliers and destinations. [Live dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) | `Python` `pandas` `Streamlit` |
-| [**Data Engineering Process**](https://github.com/fernandatrevi/data-engineering-process) | Reproducible data-cleaning workflow: missing values, duplicates, type standardization, quality checks, and CSV/Excel exports. | `Python` `pandas` `NumPy` |
+| [**Data Engineering Process**](https://github.com/fernandatrevi/data-engineering-process) | Reproducible data cleaning and transformation: missing values, duplicates, standardization, quality checks, and structured exports. | `Python` `pandas` `NumPy` |
+| [**Supplier Delivery Performance**](https://github.com/fernandatrevi/panel-proveedores-salud) | Converts historical shipment records into validated delivery KPIs, comparisons, and an interactive reporting dashboard. [Live dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) | `Python` `pandas` `Streamlit` |
 | [**Demand Forecasting & Capacity**](https://github.com/fernandatrevi/pronostico-demanda-urgencias) | Documents a weekly-demand forecasting and capacity-buffer methodology with chronological evaluation, MAD, MAPE, RMSE, and bias. *Methodology stage; results not yet validated.* | `Python` `Time series` |
 | [**Mexico Healthcare Access**](https://github.com/fernandatrevi/mexico-healthcare-access-analysis) | Interactive geographic and historical analysis of official healthcare-access indicators across 32 Mexican states. [Live dashboard](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) | `R` `Shiny` `Plotly` |
 | [**AI Investment Portfolio Optimizer**](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer) | Historical portfolio-risk analysis with minimum-variance allocations, drawdowns, VaR/CVaR, and chronological holdout comparison. [Live app](https://ai-investment-portfolio-optimizer-tsjajqgwafh9vj3tavxaoj.streamlit.app/) | `Python` `SciPy` `Streamlit` |
@@ -41,18 +41,19 @@ I enjoy taking a project from messy data or an open-ended question to a reproduc
 | [**StudyPilot AI**](https://github.com/fernandatrevi/studypilot-ai) | Document-based study tools and quizzes · [Demo](https://studypilotai.streamlit.app/) |
 | [**AnimeMatch AI**](https://github.com/fernandatrevi/animematch-ai) | Content-based recommendation prototype · [Demo](https://animematch.onrender.com/) |
 
-## Engineering approach
+## Analytical approach
 
-- Build from a defined question and validate the inputs before drawing conclusions.
-- Separate descriptive evidence from forecasts, assumptions, and simulated results.
-- Design interpretable metrics and simple interfaces that make findings usable.
-- Document trade-offs, limitations, and unfinished functionality clearly.
+- **Prepare:** inspect, clean, validate, and reconcile data before analysis.
+- **Explore:** define KPIs, investigate patterns, and test assumptions.
+- **Model:** compare simple baselines with more advanced methods when justified.
+- **Communicate:** translate findings into dashboards and clear explanations for decision-makers.
+- **Validate:** document limitations and distinguish verified results from prototypes.
 
 ## Core tools
 
 **Languages:** Python · R · TypeScript · SQL concepts
 
-**Analytics:** pandas · NumPy · SciPy · scikit-learn · Plotly · Shiny · Streamlit
+**Analytics & ML:** pandas · NumPy · SciPy · scikit-learn · Plotly · Shiny · Streamlit
 
 **Applications & data:** React · FastAPI · PostgreSQL · Git/GitHub
 
