@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate animated blue snake on a dark contribution grid
+      - name: Generate animated blue snake on a light contribution grid
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: fernandatrevi
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2338bdf8&color_dots=%230b1220,%231e3a8a,%232563eb,%233b82f6,%2393c5fd
+            dist/github-contribution-grid-snake.svg?color_snake=%232563eb&color_dots=%23f0f6ff,%23bfdbfe,%2393c5fd,%2360a5fa,%232563eb
 
       - name: Publish animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
