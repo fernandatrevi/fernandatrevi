@@ -2,7 +2,7 @@ name: Generate blue contribution snake
 
 on:
   schedule:
-    - cron: '15 6 * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
