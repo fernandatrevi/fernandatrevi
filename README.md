@@ -75,12 +75,12 @@ My projects explore the full analytical workflow: **cleaning and validating data
 
 <img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/contributions-count.svg" alt="Contributions in the last year, updated automatically" width="100%" />
 
-<sub>Annual contribution total and snake are refreshed daily through GitHub Actions.</sub>
+<sub>Contribution counter refreshes on an hourly schedule; the number may lag GitHub's live count.</sub>
 
-<!-- Generated daily by Platane/snk; the animation uses GitHub's contribution graph,
+<!-- Generated periodically by Platane/snk; the animation uses GitHub's contribution graph,
      without publishing source code from private repositories. -->
 <img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated blue snake eating contribution squares on a light-blue GitHub contributions grid" width="100%" />
 
-<sub>Blue contribution snake · Daily automatic updates</sub>
+<sub>Blue contribution snake · Scheduled automatic updates</sub>
 
 </div>
