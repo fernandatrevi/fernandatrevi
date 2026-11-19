@@ -75,7 +75,7 @@ My projects explore the full analytical workflow: **cleaning and validating data
 
 <img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/contributions-count.svg" alt="Contributions in the last year, updated automatically" width="100%" />
 
-<sub>Contribution counter refreshes on an hourly schedule; the number may lag GitHub's live count.</sub>
+<sub>**Updated every hour via GitHub Actions.** The displayed total may briefly lag behind GitHub's live contribution count.</sub>
 
 <!-- Generated periodically by Platane/snk; the animation uses GitHub's contribution graph,
      without publishing source code from private repositories. -->
