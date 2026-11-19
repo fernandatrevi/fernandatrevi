@@ -134,13 +134,14 @@ I prioritize clear metric definitions, reproducible calculations, documented ass
 
 <div align="center">
 
-### 696 contributions in the last year
-<sub>Snapshot from GitHub profile on November 19, 2026 · The count above is not live.</sub>
+<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/contributions-count.svg" alt="Contributions in the last year, updated automatically" width="100%" />
+
+<sub>Annual contribution total and snake are refreshed daily through GitHub Actions.</sub>
 
 <!-- Generated daily by Platane/snk; the animation uses GitHub's contribution graph,
      without publishing source code from private repositories. -->
 <img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated blue snake on a light-blue GitHub contributions grid" width="100%" />
 
-<sub>Blue contribution snake · The animation updates daily via GitHub Actions</sub>
+<sub>Blue contribution snake · Daily automatic updates</sub>
 
 </div>
