@@ -140,7 +140,7 @@ I prioritize clear metric definitions, reproducible calculations, documented ass
 
 <!-- Generated daily by Platane/snk; the animation uses GitHub's contribution graph,
      without publishing source code from private repositories. -->
-<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated blue snake on a light-blue GitHub contributions grid" width="100%" />
+<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.gif" alt="Animated blue snake eating contribution squares on a light-blue GitHub contributions grid" width="100%" />
 
 <sub>Blue contribution snake · Daily automatic updates</sub>
 
