@@ -73,14 +73,9 @@ My projects explore the full analytical workflow: **cleaning and validating data
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/contributions-count.svg" alt="Contributions in the last year, updated automatically" width="100%" />
+<!-- Animated SVG generated from the contribution calendar by GitHub Actions. -->
+<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated contribution snake (blue)" width="100%" />
 
-<sub>**Updated every hour via GitHub Actions.** The displayed total may briefly lag behind GitHub's live contribution count.</sub>
-
-<!-- Generated periodically by Platane/snk; the animation uses GitHub's contribution graph,
-     without publishing source code from private repositories. -->
-<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated blue snake eating contribution squares on a light-blue GitHub contributions grid" width="100%" />
-
-<sub>Blue contribution snake · Scheduled automatic updates</sub>
+<sub>Animation generated automatically with GitHub Actions. The official green contribution calendar below is the source of truth for your activity count.</sub>
 
 </div>
