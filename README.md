@@ -4,9 +4,9 @@
 
 ### Data Analytics · Business Intelligence · Applied Machine Learning
 
-Turning raw data into reliable insights, clear visualizations, and practical analytical tools.
+Turning data into actionable insights, interactive dashboards, and practical software.
 
-[**PROJECTS**](#featured-projects) &nbsp; [**LIVE DEMOS**](#live-demos) &nbsp; [**GITHUB**](https://github.com/fernandatrevi?tab=repositories)
+[**FEATURED PROJECTS**](#featured-projects) &nbsp;·&nbsp; [**OTHER PROJECTS**](#other-projects) &nbsp;·&nbsp; [**LIVE DEMOS**](#live-demos) &nbsp;·&nbsp; [**REPOSITORIES**](https://github.com/fernandatrevi?tab=repositories)
 
 </div>
 
@@ -14,58 +14,81 @@ Turning raw data into reliable insights, clear visualizations, and practical ana
 
 ## About me
 
-I'm an Engineering Management student focused on **data analytics**, with an interest in business intelligence, applied machine learning, and turning complex information into useful decisions.
+I'm an Engineering Management student interested in **data analytics, business intelligence, and applied machine learning**. I build projects that connect quantitative analysis, visualization, and software with practical problems.
 
-My projects explore the full analytical workflow: **cleaning and validating data, defining metrics, exploring patterns, building interactive dashboards, and evaluating models**. I enjoy connecting technical work with questions that matter to real organizations, while making assumptions and limitations explicit.
+My work spans **KPI development, exploratory analysis, forecasting, optimization, and interactive applications**. I prioritize clear documentation and distinguish working prototypes from validated results.
 
 ## Featured projects
 
-| Project | What it does | Stack |
+A selection of projects showcasing analytical problem-solving, interactive tools, and software development.
+
+| Project | Highlights | Technologies |
 |:--|:--|:--|
-| [**Data Engineering Process**](https://github.com/fernandatrevi/data-engineering-process) | Reproducible data cleaning and transformation: missing values, duplicates, standardization, quality checks, and structured exports. | `Python` `pandas` `NumPy` |
-| [**Supplier Delivery Performance**](https://github.com/fernandatrevi/panel-proveedores-salud) | Converts historical shipment records into validated delivery KPIs, comparisons, and an interactive reporting dashboard. [Live dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) | `Python` `pandas` `Streamlit` |
-| [**Demand Forecasting & Capacity**](https://github.com/fernandatrevi/pronostico-demanda-urgencias) | Documents a weekly-demand forecasting and capacity-buffer methodology with chronological evaluation, MAD, MAPE, RMSE, and bias. *Methodology stage; results not yet validated.* | `Python` `Time series` |
-| [**Mexico Healthcare Access**](https://github.com/fernandatrevi/mexico-healthcare-access-analysis) | Interactive geographic and historical analysis of official healthcare-access indicators across 32 Mexican states. [Live dashboard](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) | `R` `Shiny` `Plotly` |
-| [**AI Investment Portfolio Optimizer**](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer) | Historical portfolio-risk analysis with minimum-variance allocations, drawdowns, VaR/CVaR, and chronological holdout comparison. [Live app](https://ai-investment-portfolio-optimizer-tsjajqgwafh9vj3tavxaoj.streamlit.app/) | `Python` `SciPy` `Streamlit` |
-| [**Vínculo**](https://github.com/fernandatrevi/vinculo-portfolio) | Full-stack nonprofit-management prototype combining a public directory, account workflows, and permission-controlled administrative records. [Demo](https://vinculo-donantes-1.onrender.com/) | `React` `TypeScript` `FastAPI` `PostgreSQL` |
+| **[Supplier Delivery Performance](https://github.com/fernandatrevi/panel-proveedores-salud)** | Shipment-performance KPIs, data validation, and interactive supplier reporting. **[Live dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/)** | `Python` `pandas` `Streamlit` |
+| **[AI Investment Portfolio Optimizer](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer)** | Historical portfolio-risk analysis, optimization, drawdowns, VaR/CVaR, and chronological holdout comparisons. **[Live app](https://ai-investment-portfolio-optimizer-tsjajqgwafh9vj3tavxaoj.streamlit.app/)** | `Python` `SciPy` `Streamlit` |
+| **[Vínculo](https://github.com/fernandatrevi/vinculo-portfolio)** | Full-stack nonprofit-management prototype with a public directory, account workflows, and permission-controlled records. **[Demo](https://vinculo-donantes-1.onrender.com/)** | `React` `TypeScript` `FastAPI` `PostgreSQL` |
+| **[FormAI](https://github.com/fernandatrevi/formai-portfolio)** | Experimental exercise-form feedback using pretrained pose-estimation technology. **[Demo](https://formai-live.onrender.com/)** | `Computer vision` `Pose estimation` |
+| **[StudyPilot AI](https://github.com/fernandatrevi/studypilot-ai)** | Document-based study assistant with study tools and quizzes. **[Demo](https://studypilotai.streamlit.app/)** | `AI application` `Streamlit` |
 
-<sub>Projects use historical, public, anonymized, or fictional information as documented. Demos and prototypes are not claims of deployed business impact, production validation, or payment processing.</sub>
+<sub>Projects include prototypes and analyses based on historical, public, anonymized, or fictional data as documented in each repository. Live demos do not imply production deployment or independently validated business impact.</sub>
 
-## More projects
+## Other projects
+
+### Analytics and quantitative methods
 
 | Project | Focus |
 |:--|:--|
-| [**FormAI**](https://github.com/fernandatrevi/formai-portfolio) | Experimental exercise-form feedback using pretrained pose estimation · [Demo](https://formai-live.onrender.com/) |
-| [**BrainScan AI**](https://github.com/fernandatrevi/brainscan-ai) | Educational medical-imaging interface using simulated results; not diagnostic · [Demo](https://brainscan-ai-one.vercel.app/) |
-| [**Wall Street Web Crawler**](https://github.com/fernandatrevi/wall-street-web-crawler) | SEC filing and PDF text search · [Demo](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/) |
-| [**StudyPilot AI**](https://github.com/fernandatrevi/studypilot-ai) | Document-based study tools and quizzes · [Demo](https://studypilotai.streamlit.app/) |
-| [**AnimeMatch AI**](https://github.com/fernandatrevi/animematch-ai) | Content-based recommendation prototype · [Demo](https://animematch.onrender.com/) |
+| **[Demand Forecasting & Capacity](https://github.com/fernandatrevi/pronostico-demanda-urgencias)** | Weekly-demand forecasting and capacity-buffer methodology; evaluation approach documented, **results not yet validated**. |
+| **[Mexico Healthcare Access](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)** | Geographic and historical data visualization across Mexico's 32 states. **[Live dashboard](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/)** |
+| **[Wall Street Web Crawler](https://github.com/fernandatrevi/wall-street-web-crawler)** | SEC filing and PDF text search. **[Demo](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/)** |
 
-## Analytical approach
+### AI and experimental applications
 
-- **Prepare:** inspect, clean, validate, and reconcile data before analysis.
-- **Explore:** define KPIs, investigate patterns, and test assumptions.
-- **Model:** compare simple baselines with more advanced methods when justified.
-- **Communicate:** translate findings into dashboards and clear explanations for decision-makers.
-- **Validate:** document limitations and distinguish verified results from prototypes.
+| Project | Focus |
+|:--|:--|
+| **[BrainScan AI](https://github.com/fernandatrevi/brainscan-ai)** | Educational medical-imaging interface with simulated results; **not a diagnostic tool**. **[Demo](https://brainscan-ai-one.vercel.app/)** |
+| **[AnimeMatch AI](https://github.com/fernandatrevi/animematch-ai)** | Content-based recommendation prototype. **[Demo](https://animematch.onrender.com/)** |
 
-## Core tools
+### Academic exercises and technical foundations
 
-**Languages:** Python · R · TypeScript · SQL concepts
+| Project | Focus |
+|:--|:--|
+| **[Data Engineering Process](https://github.com/fernandatrevi/data-engineering-process)** | Classroom notebook covering data cleaning, transformation, missing values, duplicates, and quality checks using Python. |
 
-**Analytics & ML:** pandas · NumPy · SciPy · scikit-learn · Plotly · Shiny · Streamlit
+## How I approach projects
 
-**Applications & data:** React · FastAPI · PostgreSQL · Git/GitHub
+**1. Understand the problem** → Define the question and useful metrics.
+
+**2. Prepare the data** → Inspect quality, clean inputs, and document assumptions.
+
+**3. Analyze or build** → Explore patterns, evaluate methods, and develop usable tools.
+
+**4. Communicate results** → Create clear visualizations, dashboards, or interfaces.
+
+**5. State limitations** → Separate tested findings, methodology-stage work, and prototypes.
+
+## Technical toolkit
+
+| Area | Tools |
+|:--|:--|
+| **Programming & data** | Python, R, pandas, NumPy, SQL concepts |
+| **Analytics & visualization** | SciPy, scikit-learn, Plotly, Streamlit, Shiny |
+| **Application development** | React, TypeScript, FastAPI, PostgreSQL |
+| **Workflow** | Git, GitHub |
 
 ## Live demos
 
-[Supplier performance](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) ·
-[Healthcare access](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) ·
+[Supplier dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) ·
 [Portfolio optimizer](https://ai-investment-portfolio-optimizer-tsjajqgwafh9vj3tavxaoj.streamlit.app/) ·
 [Vínculo](https://vinculo-donantes-1.onrender.com/) ·
-[FormAI](https://formai-live.onrender.com/)
+[FormAI](https://formai-live.onrender.com/) ·
+[StudyPilot AI](https://studypilotai.streamlit.app/) ·
+[Mexico data dashboard](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/) ·
+[Wall Street Web Crawler](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/) ·
+[BrainScan AI](https://brainscan-ai-one.vercel.app/) ·
+[AnimeMatch AI](https://animematch.onrender.com/)
 
-<sub>Hosted demos may have cold starts or limited availability. Project READMEs describe the scope and limitations.</sub>
+<sub>Hosted demos may have cold starts or limited availability. See individual repositories for scope and limitations.</sub>
 
 ---
 
@@ -73,9 +96,8 @@ My projects explore the full analytical workflow: **cleaning and validating data
 
 <div align="center">
 
-<!-- Animated SVG generated from the contribution calendar by GitHub Actions. -->
-<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated contribution snake (blue)" width="100%" />
+<img src="https://raw.githubusercontent.com/fernandatrevi/fernandatrevi/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 
-<sub>Animation generated automatically with GitHub Actions. The official green contribution calendar below is the source of truth for your activity count.</sub>
+<sub>Animation is generated by GitHub Actions. GitHub's official contribution calendar is the reference for activity counts.</sub>
 
 </div>
