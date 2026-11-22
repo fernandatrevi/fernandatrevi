@@ -29,6 +29,7 @@ A selection of projects showcasing analytical problem-solving, interactive tools
 | **[Vínculo](https://github.com/fernandatrevi/vinculo-portfolio)** | Full-stack nonprofit-management prototype with a public directory, account workflows, and permission-controlled records. **[Demo](https://vinculo-donantes-1.onrender.com/)** | `React` `TypeScript` `FastAPI` `PostgreSQL` |
 | **[FormAI](https://github.com/fernandatrevi/formai-portfolio)** | Experimental exercise-form feedback using pretrained pose-estimation technology. **[Demo](https://formai-live.onrender.com/)** | `Computer vision` `Pose estimation` |
 | **[StudyPilot AI](https://github.com/fernandatrevi/studypilot-ai)** | Document-based study assistant with study tools and quizzes. **[Demo](https://studypilotai.streamlit.app/)** | `AI application` `Streamlit` |
+| **[Mexico Healthcare Access — R & Shiny](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)** | Reproducible analysis of healthcare access deprivation across Mexico's 32 states (2016–2024), with data validation, comparative indicators, and an interactive dashboard. **[Shiny dashboard](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/)** | `R` `Shiny` `Plotly` `INEGI data` |
 
 <sub>Projects include prototypes and analyses based on historical, public, anonymized, or fictional data as documented in each repository. Live demos do not imply production deployment or independently validated business impact.</sub>
 
@@ -39,7 +40,6 @@ A selection of projects showcasing analytical problem-solving, interactive tools
 | Project | Focus |
 |:--|:--|
 | **[Demand Forecasting & Capacity](https://github.com/fernandatrevi/pronostico-demanda-urgencias)** | Weekly-demand forecasting and capacity-buffer methodology; evaluation approach documented, **results not yet validated**. |
-| **[Mexico Healthcare Access](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)** | Geographic and historical data visualization across Mexico's 32 states. **[Live dashboard](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/)** |
 | **[Wall Street Web Crawler](https://github.com/fernandatrevi/wall-street-web-crawler)** | SEC filing and PDF text search. **[Demo](https://wall-street-web-crawler-h2lubtjvapebqhgglspbg8.streamlit.app/)** |
 
 ### AI and experimental applications
@@ -48,12 +48,6 @@ A selection of projects showcasing analytical problem-solving, interactive tools
 |:--|:--|
 | **[BrainScan AI](https://github.com/fernandatrevi/brainscan-ai)** | Educational medical-imaging interface with simulated results; **not a diagnostic tool**. **[Demo](https://brainscan-ai-one.vercel.app/)** |
 | **[AnimeMatch AI](https://github.com/fernandatrevi/animematch-ai)** | Content-based recommendation prototype. **[Demo](https://animematch.onrender.com/)** |
-
-### Academic exercises and technical foundations
-
-| Project | Focus |
-|:--|:--|
-| **[Data Engineering Process](https://github.com/fernandatrevi/data-engineering-process)** | Classroom notebook covering data cleaning, transformation, missing values, duplicates, and quality checks using Python. |
 
 ## How I approach projects
 
