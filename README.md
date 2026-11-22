@@ -27,6 +27,7 @@ A selection of projects showcasing analytical problem-solving, interactive tools
 | **[Supplier Delivery Performance](https://github.com/fernandatrevi/panel-proveedores-salud)** | Shipment-performance KPIs, data validation, and interactive supplier reporting. **[Live dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/)** | `Python` `pandas` `Streamlit` |
 | **[AI Investment Portfolio Optimizer](https://github.com/fernandatrevi/ai-investment-portfolio-optimizer)** | Historical portfolio-risk analysis, optimization, drawdowns, VaR/CVaR, and chronological holdout comparisons. **[Live app](https://ai-investment-portfolio-optimizer-tsjajqgwafh9vj3tavxaoj.streamlit.app/)** | `Python` `SciPy` `Streamlit` |
 | **[Vínculo](https://github.com/fernandatrevi/vinculo-portfolio)** | Full-stack nonprofit-management prototype with a public directory, account workflows, and permission-controlled records. **[Demo](https://vinculo-donantes-1.onrender.com/)** | `React` `TypeScript` `FastAPI` `PostgreSQL` |
+| **[BrainScan AI](https://github.com/fernandatrevi/brainscan-ai)** | Educational medical-imaging ML laboratory: HOG feature extraction, SVM/Random Forest vs. majority-class baseline, duplicate-image checks, patient-group split option, and automated synthetic-image tests. **[Web demo — mock results only](https://brainscan-ai-one.vercel.app/)** | `Python` `scikit-learn` `Next.js` `TypeScript` |
 | **[FormAI](https://github.com/fernandatrevi/formai-portfolio)** | Experimental exercise-form feedback using pretrained pose-estimation technology. **[Demo](https://formai-live.onrender.com/)** | `Computer vision` `Pose estimation` |
 | **[StudyPilot AI](https://github.com/fernandatrevi/studypilot-ai)** | Document-based study assistant with study tools and quizzes. **[Demo](https://studypilotai.streamlit.app/)** | `AI application` `Streamlit` |
 | **[Mexico Healthcare Access — R & Shiny](https://github.com/fernandatrevi/mexico-healthcare-access-analysis)** | Reproducible analysis of healthcare access deprivation across Mexico's 32 states (2016–2024), with data validation, comparative indicators, and an interactive dashboard. **[Shiny dashboard](https://fernandatrevi.shinyapps.io/mexico-healthcare-access/)** | `R` `Shiny` `Plotly` `INEGI data` |
@@ -46,7 +47,6 @@ A selection of projects showcasing analytical problem-solving, interactive tools
 
 | Project | Focus |
 |:--|:--|
-| **[BrainScan AI](https://github.com/fernandatrevi/brainscan-ai)** | Educational medical-imaging interface with simulated results; **not a diagnostic tool**. **[Demo](https://brainscan-ai-one.vercel.app/)** |
 | **[AnimeMatch AI](https://github.com/fernandatrevi/animematch-ai)** | Content-based recommendation prototype. **[Demo](https://animematch.onrender.com/)** |
 
 ## How I approach projects
