@@ -61,15 +61,6 @@ A selection of projects showcasing analytical problem-solving, interactive tools
 
 **5. State limitations** → Separate tested findings, methodology-stage work, and prototypes.
 
-## Technical toolkit
-
-| Area | Tools |
-|:--|:--|
-| **Programming & data** | Python, R, pandas, NumPy, SQL concepts |
-| **Analytics & visualization** | SciPy, scikit-learn, Plotly, Streamlit, Shiny |
-| **Application development** | React, TypeScript, FastAPI, PostgreSQL |
-| **Development tools & version control** | VS Code, RStudio, Jupyter Notebook, Git, GitHub |
-
 ## Live demos
 
 [Supplier dashboard](https://panel-proveedores-salud-fernandatrevi.streamlit.app/) ·
