@@ -68,7 +68,7 @@ A selection of projects showcasing analytical problem-solving, interactive tools
 | **Programming & data** | Python, R, pandas, NumPy, SQL concepts |
 | **Analytics & visualization** | SciPy, scikit-learn, Plotly, Streamlit, Shiny |
 | **Application development** | React, TypeScript, FastAPI, PostgreSQL |
-| **Workflow** | Git, GitHub |
+| **Development tools & version control** | VS Code, RStudio, Jupyter Notebook, Git, GitHub |
 
 ## Live demos
 
